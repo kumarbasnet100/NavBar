@@ -38,13 +38,17 @@ a{
     margin: 25px;
     padding: 25px;
     display: inline-block;
+    border: 2px solid black;
 }
 h1{
     margin-left:30px ;
 }
+#content{
+    height: 600px;
+}
 footer{
     background-color: black;
     color: white;
-    height: 300px;
-    margin-top: 200px;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
 }
