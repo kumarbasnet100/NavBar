@@ -6,7 +6,7 @@ body{
     background-color: rgb(6, 40, 77);
 
 }
-div{
+#nav{
     height: 60px;
     background-color: black;
     border: 2px solid white;
@@ -31,4 +31,20 @@ a{
 
 #button{
     background-color: rgb(233, 158, 19);
+}
+.box{
+    height: 100px;
+    width: 100px;
+    margin: 25px;
+    padding: 25px;
+    display: inline-block;
+}
+h1{
+    margin-left:30px ;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 300px;
+    margin-top: 200px;
 }
